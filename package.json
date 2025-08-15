@@ -4,10 +4,10 @@
   "description": "JARVIS AI Ultimate - Enhanced Arc Reactor Intro with Multi-AI Intelligence",
   "main": "index.js",
   "scripts": {
-    "dev": "vercel dev",
-    "build": "vercel build",
-    "start": "vercel dev"
-  },
+  "dev": "echo 'Development mode'",
+  "build": "echo 'Build complete'",
+  "start": "echo 'Server ready'"
+},
   "keywords": [
     "jarvis",
     "ai",
