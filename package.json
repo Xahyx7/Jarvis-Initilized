@@ -1,0 +1,30 @@
+{
+  "name": "jarvis-ai-ultimate",
+  "version": "4.0.0",
+  "description": "JARVIS AI Ultimate - Enhanced Arc Reactor Intro with Multi-AI Intelligence",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build",
+    "start": "vercel dev"
+  },
+  "keywords": [
+    "jarvis",
+    "ai",
+    "assistant", 
+    "iron-man",
+    "arc-reactor",
+    "educational",
+    "cbse",
+    "vercel"
+  ],
+  "author": "JARVIS AI Developer",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
